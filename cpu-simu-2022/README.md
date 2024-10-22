@@ -1,5 +1,7 @@
 Implemented a CPU simulator using mainly c++ that reads input instructions from a file, processes them, and generates output in the form of a PPM image file. This involved parsing the input data, simulating the CPU's operations, include integer and float arithmetic operations. This was for school experiment.
 
+Main file: sim_for_core.cpp
+
 Output Result: ppm file
 
 screenshot(512*512):
