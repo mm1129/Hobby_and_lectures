@@ -12,6 +12,10 @@ With this, users can prepare for their upcoming schedule at a glance, without ha
 その後、別リポジトリにてチームメンバーと協力し、大幅な改変・改良を行いました（team-2a の皆さまに心より感謝申し上げます）。
 本リポジトリは、当初私が担当した部分を記録として残すとともに、今後の参照用として保存しているものです。
 
+完成系（チームで作成）：
+https://team2a-mirror.vercel.app/
+（画像生成には有料のAPIを要するためdemoになっている）
+
 [How to use]
 nodeがある前提で以下を実装
 ```
