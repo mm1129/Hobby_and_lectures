@@ -15,6 +15,17 @@ With this, users can prepare for their upcoming schedule at a glance, without ha
 完成系（チームで作成）：
 https://team2a-mirror.vercel.app/
 （画像生成には有料のAPIを要するためdemoになっている）
+This won a 1st prize in Software Project class!
+
+[My role]
+天気予報
+持ち物提案
+服装提案
+画像生成
+位置情報
+カレンダー
+チャット
+
 
 [How to use]
 nodeがある前提で以下を実装
