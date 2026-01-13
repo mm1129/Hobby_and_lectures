@@ -1,4 +1,4 @@
-# My All-in-one Calender
+# My All-in-one Calender (initial version)
 
 [demo]
 
