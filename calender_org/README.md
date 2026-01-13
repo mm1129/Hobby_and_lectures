@@ -43,8 +43,9 @@ npm run preview
 実装内容:
 - カレンダー、チャット、天気、服装・持ち物の提案、位置情報の取得or入力
 - 服装：天気や趣味嗜好に合わせる、持ち物：天気や予定に合わせた提案
-~
-ToDo:
+  
+
+~ToDo:
 - [ ] 今はチャット入力のパースがルールベース→AIでスムーズにパースする
 - [ ] UIやスタイル
 - [ ] 服装の「スタイル」のキーワード　適切な言葉に
@@ -55,6 +56,7 @@ ToDo:
 - [ ] 「次の予定」「予定の概況」にはそれが何日なのかを示す
 - [ ] ウィジェットに
 - [ ] ~
+      
 Subsequently, my teammates enhanced the UI with a clean pink colour scheme and enabled deployment to Vercel through migration to Next.js.
 
 Features I subsequently implemented after this github code:
@@ -70,5 +72,6 @@ Many thanks to my teammate,
 - voice and image input processing
 - incorporating from other calenders
 - show google map for arriving at the next event
+  
 was also implemented for the final version.
  
