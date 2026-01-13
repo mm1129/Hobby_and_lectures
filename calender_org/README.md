@@ -14,7 +14,7 @@ With this, users can prepare for their upcoming schedule at a glance, without ha
 
 完成系（チームで作成）：
 https://team2a-mirror.vercel.app/
-（画像生成には有料のAPIを要するためdemoになっている）
+（final version; 画像生成には有料のAPIを要するためdemoになっている）
 This won a 1st prize in Software Project class!
 
 [My role]
